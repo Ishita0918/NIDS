@@ -270,7 +270,7 @@ If you use this work in your research, please cite:
 @inproceedings{dsouza2026hybrid,
   title     = {Integration of Metaheuristic Algorithms with Machine Learning and Deep Learning 
                Models for Network Intrusion Detection: A Hybrid GA-PSO Framework Applied to NSL-KDD},
-  author    = {Dsouza, Ishita Leonard and Kukreja, Swetta},
+  author    = {Ishita Leonard Dsouza and Kukreja, Swetta},
   booktitle = {International Conference on Emerging Techniques and Future Threats 
                in Cryptography \& Network Security (ICEFCN-2026)},
   year      = {2026},
